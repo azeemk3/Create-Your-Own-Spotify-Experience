@@ -1,10 +1,10 @@
 # Create-Your-Own-Spotify-Experience
 The "Create Your Own Spotify Experience" project is aimed at providing users with a personalized music experience by analyzing audio features from their music files. This detailed report provides an overview of the project, its objectives, features, requirements, and usage instructions.
 
-Objective
+#Objective
 The primary objective of this project is to empower users to curate their own music experience based on their preferences and tastes. By analyzing audio features such as tempo, pitch, and rhythm, the project aims to understand the musical characteristics of individual songs and recommend similar tracks that align with the user's preferences.
 
-Features
+#Features
 CSV Data Loading: The project includes scripts to load audio metadata from CSV files. This metadata includes information about tracks, albums, artists, genres, and more.
 
 Random File Selection: Users can select random audio files and subfolders for analysis. This feature allows for diverse and comprehensive exploration of music collections.
